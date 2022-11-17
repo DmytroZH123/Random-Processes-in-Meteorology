@@ -39,6 +39,15 @@ https://www.ncdc.noaa.gov/cdo-web/
 ## Holt-Winter's model: 
 <img src="5.jpg" align = "center"/>
 
+mean_squared_error(temp1.values[365:730], data) # MSE
+26.316476334574727
+
+mean_absolute_error(temp1.values[365:730], data) # MAE
+4.036518487071952
+
+r2_score(temp1.values[365:730], data) # R^2
+0.7024258165900131
+
 ## Prophet model: 
 <img src="4.jpg" align = "center"/>
 
