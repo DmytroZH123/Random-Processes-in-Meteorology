@@ -1,4 +1,7 @@
 # Random-Processes-in-Meteorology
+
+To see the full project with graphs click on the <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>file.
+
 Climate change is the observed and projected long-term changes in average climate, as well as climate variability, caused by human activity, including such anomalies as droughts, severe storms and floods.
 
 The climate of our planet has been constantly changing throughout the entire geological history of the Earth, and these changes were accompanied by significant fluctuations in average global temperatures. One of the main drivers of global average temperature change is the burning of fossil fuels, coal, gas and oil, which has increased the concentration of greenhouse gases such as carbon dioxide in our atmosphere.
@@ -11,8 +14,6 @@ The NOAA website contains open data, where it is possible to find local climatol
 
 - Done by Dmytro Zhuk for "MODERN RESEARCH IN WORLD SCIENCE" scientific conference in Lviv, Ukraine.
 - Conference source: https://sci-conf.com.ua/ix-mizhnarodna-naukovo-praktichna-konferentsiya-modern-research-in-world-science-28-30-11-2022-lviv-ukrayina/
-
-To see the full project with graphs click on the <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>file.
 
 ---
 
