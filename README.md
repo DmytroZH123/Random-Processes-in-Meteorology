@@ -12,7 +12,7 @@ The NOAA website contains open data, where it is possible to find local climatol
 - Done by Dmytro Zhuk for "MODERN RESEARCH IN WORLD SCIENCE" scientific conference in Lviv, Ukraine.
 - Conference source: https://sci-conf.com.ua/ix-mizhnarodna-naukovo-praktichna-konferentsiya-modern-research-in-world-science-28-30-11-2022-lviv-ukrayina/
 
-To see the full project click on the <a href = "test1DmytoZhuk.ipynb">test1DmytoZhuk.ipynb </a>file.
+To see the full project with graphs click on the <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>file.
 
 ---
 
