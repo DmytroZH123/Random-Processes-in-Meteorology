@@ -1,6 +1,6 @@
 # Random-Processes-in-Meteorology
 
-# To see the full project with graphs click on the <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>file.
+### To see the full project with graphs click on the link: <a href = "https://nbviewer.org/github/DmytroZH123/Random-Processes-in-Meteorology/blob/main/RandomProcessWeather%20%281%29.ipynb">RandomProcesses (with graphs).ipynb </a>
 
 Climate change is the observed and projected long-term changes in average climate, as well as climate variability, caused by human activity, including such anomalies as droughts, severe storms and floods.
 
