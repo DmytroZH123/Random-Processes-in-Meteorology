@@ -33,7 +33,9 @@ https://www.ncdc.noaa.gov/cdo-web/
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 <img src="test1DmytroZhuk.jpg" align = "center"/>
+
 ---
+
 ## Holt-Winter's model: 
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 
