@@ -1,10 +1,9 @@
 # Random-Processes-in-Meteorology
-The climate of our planet has been constantly changing throughout the entire geological history of the Earth. The use of temperature prediction models is of great practical importance, starting from predicting the temperature for the next year for sowing, crop yields, etc.
+Climate change is the observed and projected long-term changes in average climate, as well as climate variability, caused by human activity, including such anomalies as droughts, severe storms and floods.
 
-Successfully participated in the selection round for the role of Junior Data Analyst. 
-Kaggle competition as a test task.   
+The climate of our planet has been constantly changing throughout the entire geological history of the Earth, and these changes were accompanied by significant fluctuations in average global temperatures. One of the main drivers of global average temperature change is the burning of fossil fuels, coal, gas and oil, which has increased the concentration of greenhouse gases such as carbon dioxide in our atmosphere.
 
-The legend is: "You're a marketing analyst and you've been told by the Senior Marketing Manager that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set in order to understand this problem and propose data-driven solutions. You are required to solve the following questions to generate a report for your management".
+The use of temperature prediction models is of great practical importance, starting from predicting the temperature for the next year for sowing, crop yields, etc. Everything directly helps to solve the problem of hunger on a global scale.
 
 To see the full project click on the <a href = "test1DmytoZhuk.ipynb">test1DmytoZhuk.ipynb </a>file.
 
