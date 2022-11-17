@@ -39,7 +39,9 @@ https://www.ncdc.noaa.gov/cdo-web/
 
 ## Prophet model: 
 <img src="test1DmytroZhuk.jpg" align = "center"/>
+
 ---
+
 ## Summary:
 As a result of the work done, several conclusions can be drawn:
 
