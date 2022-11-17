@@ -30,7 +30,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 8. PRCP - Precipitation
 9. SNWD - Snow depth
 
-<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="1.jpg" align = "center"/>
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 
