@@ -37,7 +37,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 ---
 
 ## Holt-Winter's model: 
-<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="5.jpg" align = "center"/>
 
 ## Prophet model: 
 <img src="4.jpg" align = "center"/>
