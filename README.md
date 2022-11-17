@@ -5,6 +5,10 @@ The climate of our planet has been constantly changing throughout the entire geo
 
 The use of temperature prediction models is of great practical importance, starting from predicting the temperature for the next year for sowing, crop yields, etc. Everything directly helps to solve the problem of hunger on a global scale.
 
+The National Oceanic and Atmospheric Administration (NOAA) is a federal agency within the Department of Commerce that conducts various types of meteorological and geodetic research and forecasts for the United States, its territories and worldwide, as well as the study of the world's oceans and atmosphere.
+
+The NOAA website contains open data, where it is possible to find local climatological data, marine data, annual and seasonal norms, etc. for a certain period of time. For the practical part, we will use open data from measurements of stations in the Kyiv region.
+
 - Done by Dmytro Zhuk for "MODERN RESEARCH IN WORLD SCIENCE" scientific conference in Lviv, Ukraine.
 - Conference source: https://sci-conf.com.ua/ix-mizhnarodna-naukovo-praktichna-konferentsiya-modern-research-in-world-science-28-30-11-2022-lviv-ukrayina/
 
@@ -26,10 +30,15 @@ https://www.ncdc.noaa.gov/cdo-web/
 8. PRCP - Precipitation
 9. SNWD - Snow depth
 
+<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="test1DmytroZhuk.jpg" align = "center"/>
 ---
-## PowerBI Dashboard: 
+## Holt-Winter's model: 
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 
+## Prophet model: 
+<img src="test1DmytroZhuk.jpg" align = "center"/>
 ---
 ## Summary:
 As a result of the work done, several conclusions can be drawn:
