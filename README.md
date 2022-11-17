@@ -40,7 +40,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 
 ## Prophet model: 
-<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="4.jpg" align = "center"/>
 
 ---
 
