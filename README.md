@@ -32,7 +32,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 
 <img src="1.jpg" align = "center"/>
 <img src="2.jpg" align = "center"/>
-<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="3.jpg" align = "center"/>
 
 ---
 
