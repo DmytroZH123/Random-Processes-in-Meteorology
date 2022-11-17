@@ -31,7 +31,7 @@ https://www.ncdc.noaa.gov/cdo-web/
 9. SNWD - Snow depth
 
 <img src="1.jpg" align = "center"/>
-<img src="test1DmytroZhuk.jpg" align = "center"/>
+<img src="2.jpg" align = "center"/>
 <img src="test1DmytroZhuk.jpg" align = "center"/>
 
 ---
