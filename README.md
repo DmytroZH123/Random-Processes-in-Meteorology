@@ -51,6 +51,16 @@ r2_score(temp1.values[365:730], data) # R^2
 ## Prophet model: 
 <img src="4.jpg" align = "center"/>
 
+mean_squared_error(temp1.values, forecast.iloc[0:11316]["yhat"].values) # MSE
+17.296278436536348
+
+mean_absolute_error(temp1.values, forecast.iloc[0:11316]["yhat"].values) # MAE
+3.296445347214469
+
+r2_score(temp1.values, forecast.iloc[0:11316]["yhat"].values) # R^2
+0.8233631153055813
+
+
 ---
 
 ## Summary:
