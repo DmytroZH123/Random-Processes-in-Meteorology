@@ -12,8 +12,8 @@ The National Oceanic and Atmospheric Administration (NOAA) is a federal agency w
 
 The NOAA website contains open data, where it is possible to find local climatological data, marine data, annual and seasonal norms, etc. for a certain period of time. For the practical part, we will use open data from measurements of stations in the Kyiv region.
 
-- Done by Dmytro Zhuk for "MODERN RESEARCH IN WORLD SCIENCE" scientific conference in Lviv, Ukraine.
-- Conference source: https://sci-conf.com.ua/ix-mizhnarodna-naukovo-praktichna-konferentsiya-modern-research-in-world-science-28-30-11-2022-lviv-ukrayina/
+- Done by Dmytro Zhuk for CHERKASY STATE TECHNOLOGICAL UNIVERSITY / "Innovations and prospective ways of the development of Information Technologies" scientific conference, section "Forecasting Systems", p. 61 · Dec 9, 2022, Ukraine.
+- Conference source: https://drive.google.com/file/d/1Wr3KsBzgr3zAbXO9FiiYcqeRkxivnmlO/view
 
 ---
 
